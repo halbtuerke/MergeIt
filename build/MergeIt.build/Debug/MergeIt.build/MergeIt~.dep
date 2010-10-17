@@ -1,0 +1,9 @@
+afc7908793ebd23ebe725bd275539b74 c963cdac9356e2812173c0b1b208cae9 ffffffffffffffffffffffffffffffff 102 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app
+37d148410ec93d1c4c474bcd9480398d c259aa79dccfe7b35f56ff75ba3815d7 ffffffffffffffffffffffffffffffff 14504 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt
+000000004cbb5deb000000000001461a b1e94d1c078e7907315d9c6f5ac52051 ffffffffffffffffffffffffffffffff 14591 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004cbb5aa5000000000000002d eba63fa3466376d89c3e7305012fd148 ffffffffffffffffffffffffffffffff 92 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 ea14c1e3105cc9fc8f94c495790e10a9 ffffffffffffffffffffffffffffffff 8 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/PkgInfo
+00000000000000000000000000000000 ea14c1e3105cc9fc8f94c495790e10a9 ffffffffffffffffffffffffffffffff 886 /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist
+8810c0dfdc001683058511827a8acf02 10874399007243462125e313f8beff2d ffffffffffffffffffffffffffffffff 21104 /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o
+8810c0df90bb4c26058511827a8acfae 27560bd8426994376d62a8de6c3e6302 ffffffffffffffffffffffffffffffff 4992 /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o
+000000000c7ff0cd0000000000000174 8810c0df90bb4c26058511827a8acfc4 ffffffffffffffffffffffffffffffff 54265616 /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch

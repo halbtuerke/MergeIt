@@ -1,0 +1,196 @@
+TMergeIt
+v7
+r0
+t309040553.438171
+cCheck dependencies
+cProcessInfoPlistFile /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist MergeIt-Info.plist
+cCopyStringsFile /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch MergeIt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o /Users/patrick/Coding/Xcode3.2/MergeIt/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o /Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt normal x86_64
+cTouch /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/InfoPlist.strings
+c000000004CBB5AA5000000000000002D
+t1287346853
+s45
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib
+c000000004CBB5DEB000000000001461A
+t1287347691
+s83482
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.h
+c000000004CBB5AA50000000000000139
+t1287346853
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m
+c000000004CBB5AA5000000000000016E
+t1287346853
+s366
+i"MergeItAppDelegate.h"
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/MergeIt_Prefix.pch
+c000000004CBB5AA50000000000000091
+t1287346853
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app
+t1287347753
+s102
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist
+t1287347744
+s886
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt
+t1287347753
+s14504
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/PkgInfo
+t1287347744
+s8
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1287347745
+s92
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/MainMenu.nib
+t1287347745
+s14591
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeIt.LinkFileList
+c000000004CBB5E2000000000000000E6
+t1287347744
+s230
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o
+t1287347751
+s21104
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o
+t1287347751
+s4992
+
+N/Users/patrick/Coding/Xcode3.2/MergeIt/main.m
+c000000004CBB5AA500000000000000FB
+t1287346853
+s251
+i<Cocoa/Cocoa.h>
+
+N/var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch
+t1287347751
+s54265616
+
+NMergeIt-Info.plist
+c000000004CBB5AA500000000000003EA
+t1287346853
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309040544#309040544#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o /Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309040551.687173
+e309040551.925444
+r1
+xCompileC
+xbuild/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o
+x/Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m309040551#309040551#0(0"0(0#0#59"/Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m8606321888#1478"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-generated-files.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-own-target-headers.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-all-target-headers.hmap -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-project-headers.hmap -F/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/include -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources/x86_64 -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources -include /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch -c /Users/patrick/Coding/Xcode3.2/MergeIt/MergeItAppDelegate.m -o /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeItAppDelegate.o0#
+
+CCompileC build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o /Users/patrick/Coding/Xcode3.2/MergeIt/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309040551.654055
+e309040551.899097
+r1
+xCompileC
+xbuild/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o
+x/Users/patrick/Coding/Xcode3.2/MergeIt/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/patrick/Coding/Xcode3.2/MergeIt/main.m309040551#309040551#0(0"0(0#0#45"/Users/patrick/Coding/Xcode3.2/MergeIt/main.m8603975360#1450"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-generated-files.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-own-target-headers.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-all-target-headers.hmap -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-project-headers.hmap -F/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/include -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources/x86_64 -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources -include /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch -c /Users/patrick/Coding/Xcode3.2/MergeIt/main.m -o /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib
+s309040544.512118
+e309040545.837392
+r1
+xCompileXIB
+x/Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309040544#309040545#0(0"0(0#0#65"/Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib8610817856#364"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/MainMenu.nib /Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s309040544.482970
+e309040545.414065
+r1
+xCopyStringsFile
+x/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309040544#309040545#0(0"0(0#0#70"/Users/patrick/Coding/Xcode3.2/MergeIt/English.lproj/InfoPlist.strings8607449664#365"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Resources/English.lproj0#
+
+CLd /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt normal x86_64
+s309040551.925534
+e309040553.368674
+r1
+xLd
+x/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt
+xnormal
+xx86_64
+lSLF07#2@90"Link /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt309040551#309040553#0(0"0(0#0#0"8607019200#542"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug -F/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug -filelist /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/Objects-normal/x86_64/MergeIt.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/MacOS/MergeIt0#
+
+CProcessInfoPlistFile /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist MergeIt-Info.plist
+s309040544.393652
+e309040544.482866
+r1
+xProcessInfoPlistFile
+x/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist
+xMergeIt-Info.plist
+lSLF07#2@26"Process MergeIt-Info.plist309040544#309040544#0(0"0(0#0#57"/Users/patrick/Coding/Xcode3.2/MergeIt/MergeIt-Info.plist28992412234088524#310"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    builtin-infoPlistUtility MergeIt-Info.plist -genpkginfo /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch MergeIt_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309040545.837588
+e309040551.653756
+r1
+xProcessPCH
+x/var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch
+xMergeIt_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MergeIt_Prefix.pch309040545#309040551#0(0"0(0#0#57"/Users/patrick/Coding/Xcode3.2/MergeIt/MergeIt_Prefix.pch8606189280#1356"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-generated-files.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-own-target-headers.hmap -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-all-target-headers.hmap -iquote /Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/MergeIt-project-headers.hmap -F/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/include -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources/x86_64 -I/Users/patrick/Coding/Xcode3.2/MergeIt/build/MergeIt.build/Debug/MergeIt.build/DerivedSources -c /Users/patrick/Coding/Xcode3.2/MergeIt/MergeIt_Prefix.pch -o /var/folders/fX/fXXgaXrsHXW6ZnbjEZyFvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MergeIt_Prefix-grqvseshlibpjfcnwhsgbhsdufkb/MergeIt_Prefix.pch.gch0#
+
+CTouch /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app
+s309040553.368851
+e309040553.401794
+r1
+xTouch
+x/Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app
+lSLF07#2@68"Touch /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app309040553#309040553#0(0"0(0#0#0"8607201472#131"    cd /Users/patrick/Coding/Xcode3.2/MergeIt    /usr/bin/touch -c /Users/patrick/Coding/Xcode3.2/MergeIt/build/Debug/MergeIt.app0#
+
